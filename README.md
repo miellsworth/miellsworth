@@ -3,8 +3,6 @@
 
 👷‍♂️ Job: Development lead / data person @ Suncor
 
-🤫 Age:
-
 🏒 Hobbies: Basic things like sports and music!
 
 # Projects
