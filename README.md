@@ -1,11 +1,11 @@
 # ABOUTME 
-💁‍♂️ Name: Michael (or Mike)
+😎 Name: Michael (or Mike)
 
-👷‍♂️ Job: Development lead / data person @ Suncor
+🔨 Job: Development lead / data person @ Suncor
 
 🏒 Hobbies: Basic things like sports and music!
 
-# Projects
+# Public Projects
 🎵 [Designing a Radio Program: The Story of Beat Salad](https://medium.com/@michael.ellsworth/designing-a-radio-program-the-story-of-beat-salad-81b66a81a501)
 
 # Tool preferences
