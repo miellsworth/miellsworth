@@ -6,7 +6,7 @@
 🏒 Hobbies: Basic things like sports and music!
 
 # Projects
-😭 Nothing that is finished and presentable
+🎵 [Designing a Radio Program: The Story of Beat Salad](https://medium.com/@michael.ellsworth/designing-a-radio-program-the-story-of-beat-salad-81b66a81a501)
 
 # Tool preferences
 🤖 Python for ML
