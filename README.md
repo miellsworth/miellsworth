@@ -1,7 +1,7 @@
 # ABOUTME 
 😎 Name: Michael (or Mike)
 
-🔨 Job: Development lead / data person @ Suncor
+🔨 Job: Development Engineer / Data Person @ Suncor
 
 🏒 Hobbies: Basic things like sports and music!
 
